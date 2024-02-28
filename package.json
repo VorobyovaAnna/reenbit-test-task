@@ -2,6 +2,7 @@
   "name": "reenbit-test-task",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vorobyovaanna.github.io/reenbit-test-task/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -38,6 +39,7 @@
   },
   "devDependencies": {
     "eslint": "^8.57.0",
+    "gh-pages": "^6.1.1",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
     "prettier": "^3.2.5"
